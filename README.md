@@ -33,8 +33,18 @@ The school board has requested an analysis of the district to review standardize
       
       ![image](https://user-images.githubusercontent.com/93869894/145716912-fbb71138-adc1-4259-8df5-6eba8b7ca403.png)
 
-* How does replaceing the nonth-grade scores affext the following
+* How does replaceing the ninth-grade scores affect the following
   * Math and reading scores by grade
+    * There was a 7% decrease in the math and a 5% increase in the reading scores for Thomas High School when the ninth grade scores were replaced.
   * Scores by school spending
+    * School scending catagory was not affected by the replacing of the ninth grade scores.
   * Scores by school size
+    * There was no change in the scores by school size by the replacing of the ninth grade test scores.
   * Scores by school type
+    * The typoe of school also was not effected by the replacment of the ninth grade test scores.
+
+## Summary of school district analysis
+
+  The overall performance of Thomas High School decreased slightly, from 90.95% to 90.63% when the ninth graders test scores were changed.  Beacuse of this change to the ninth grade test scores, no grades are available.  However the test results for 10th through 12th grade are available and maintained Thomas High Schools position with in the district.  The percentage of students passing math and reading decreased slightly.  Math change from 93.27% to 93.19% and reading was 97.31% and that decreaded to 97.02%.  
+
+
